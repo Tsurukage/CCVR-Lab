@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: cb52cf96a445dc04395551619324cb9c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arms
+    100002: Blouse
+    100004: Bracelet
+    100006: //RootNode
+    100008: FootWear
+    100010: LowerBody
+    100012: Necklace
+    100014: NewShort
+    100016: Palms
+    400000: Arms
+    400002: Blouse
+    400004: Bracelet
+    400006: //RootNode
+    400008: FootWear
+    400010: LowerBody
+    400012: Necklace
+    400014: NewShort
+    400016: Palms
+    2100000: "\u5185\u756A\u670D"
+    2100002: "\u80F8\u30EA\u30DC\u30F3"
+    2100004: "\u77ED\u30D1\u30F3"
+    2100006: FemaleSandals
+    2100008: "\u808C"
+    2100010: "\u30B7\u30E7\u30FC\u30C4"
+    2100012: "\u6750\u8CEA0.007"
+    2100014: "\u6750\u8CEA1.005"
+    2300000: Bracelet
+    2300002: Necklace
+    3300000: Bracelet
+    3300002: Necklace
+    4300000: Blouse
+    4300002: NewShort
+    4300004: FootWear
+    4300006: LowerBody
+    4300008: Arms
+    4300010: Palms
+    4300012: Bracelet
+    4300014: Necklace
+    9500000: //RootNode
+    13700000: Arms
+    13700002: Blouse
+    13700004: FootWear
+    13700006: LowerBody
+    13700008: NewShort
+    13700010: Palms
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FemaleSandals
+    second: {fileID: 2100000, guid: bc13946eeda20f645adfaf98af381ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30B7\u30E7\u30FC\u30C4"
+    second: {fileID: 2100000, guid: 9bc77e2575decd04da359ff3528ff4e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u5185\u756A\u670D"
+    second: {fileID: 2100000, guid: 837f0405c41db92458f1482e72746520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA0.007"
+    second: {fileID: 2100000, guid: 445f0e184ff80644183c93c9befa86ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u6750\u8CEA1.005"
+    second: {fileID: 2100000, guid: bdc0713464f83bc4abe02e2df962ce88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u77ED\u30D1\u30F3"
+    second: {fileID: 2100000, guid: 837f0405c41db92458f1482e72746520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u808C"
+    second: {fileID: 2100000, guid: b818a5b09eaf3724a8f469ece11d25d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u80F8\u30EA\u30DC\u30F3"
+    second: {fileID: 2100000, guid: 837f0405c41db92458f1482e72746520, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

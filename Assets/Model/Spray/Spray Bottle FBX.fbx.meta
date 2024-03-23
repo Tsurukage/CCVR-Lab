@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: f849c878df7929f4c8705e2abad3a241
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottle
+    100002: Cap
+    100004: Case
+    100006: Lever
+    100008: Liquid
+    100010: Main_Pipe
+    100012: Nozzle
+    100014: Nozzle_Case
+    100016: Nozzle_Holders
+    100018: Nozzle_Part
+    100020: Nozzle_Pipe
+    100022: //RootNode
+    100024: Sprayer
+    100026: Sprayer_Base
+    100028: Tube
+    400000: Bottle
+    400002: Cap
+    400004: Case
+    400006: Lever
+    400008: Liquid
+    400010: Main_Pipe
+    400012: Nozzle
+    400014: Nozzle_Case
+    400016: Nozzle_Holders
+    400018: Nozzle_Part
+    400020: Nozzle_Pipe
+    400022: //RootNode
+    400024: Sprayer
+    400026: Sprayer_Base
+    400028: Tube
+    2100000: No Name
+    2300000: Bottle
+    2300002: Cap
+    2300004: Case
+    2300006: Lever
+    2300008: Liquid
+    2300010: Main_Pipe
+    2300012: Nozzle
+    2300014: Nozzle_Case
+    2300016: Nozzle_Holders
+    2300018: Nozzle_Pipe
+    2300020: Sprayer_Base
+    2300022: Tube
+    3300000: Bottle
+    3300002: Cap
+    3300004: Case
+    3300006: Lever
+    3300008: Liquid
+    3300010: Main_Pipe
+    3300012: Nozzle
+    3300014: Nozzle_Case
+    3300016: Nozzle_Holders
+    3300018: Nozzle_Pipe
+    3300020: Sprayer_Base
+    3300022: Tube
+    4300000: Nozzle_Case
+    4300002: Nozzle_Holders
+    4300004: Nozzle
+    4300006: Case
+    4300008: Main_Pipe
+    4300010: Nozzle_Pipe
+    4300012: Cap
+    4300014: Sprayer_Base
+    4300016: Lever
+    4300018: Tube
+    4300020: Bottle
+    4300022: Liquid
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

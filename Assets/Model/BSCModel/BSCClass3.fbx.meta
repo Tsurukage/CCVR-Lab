@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: b52abba61c5779343b3700529f6aba15
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BoxFilter
+    100002: boxHolder
+    100004: boxHolder1
+    100006: BSC3
+    100008: //RootNode
+    100010: FilterUp
+    100012: footSteper
+    100014: frameFront
+    100016: glassFront.001
+    100018: glassFront.002
+    100020: glassLeft
+    100022: glassRight
+    100024: handle
+    100026: leftDoorGlass
+    100028: separator
+    100030: wire
+    100032: yellowBox1
+    100034: yellowBox2
+    400000: BoxFilter
+    400002: boxHolder
+    400004: boxHolder1
+    400006: BSC3
+    400008: //RootNode
+    400010: FilterUp
+    400012: footSteper
+    400014: frameFront
+    400016: glassFront.001
+    400018: glassFront.002
+    400020: glassLeft
+    400022: glassRight
+    400024: handle
+    400026: leftDoorGlass
+    400028: separator
+    400030: wire
+    400032: yellowBox1
+    400034: yellowBox2
+    2100000: grey
+    2100002: bsc1
+    2100004: Yellow
+    2100006: transparent
+    2100008: blue
+    2100010: black
+    2300000: BoxFilter
+    2300002: boxHolder
+    2300004: boxHolder1
+    2300006: BSC3
+    2300008: FilterUp
+    2300010: footSteper
+    2300012: frameFront
+    2300014: glassFront.001
+    2300016: glassFront.002
+    2300018: glassLeft
+    2300020: glassRight
+    2300022: handle
+    2300024: leftDoorGlass
+    2300026: separator
+    2300028: wire
+    2300030: yellowBox1
+    2300032: yellowBox2
+    3300000: BoxFilter
+    3300002: boxHolder
+    3300004: boxHolder1
+    3300006: BSC3
+    3300008: FilterUp
+    3300010: footSteper
+    3300012: frameFront
+    3300014: glassFront.001
+    3300016: glassFront.002
+    3300018: glassLeft
+    3300020: glassRight
+    3300022: handle
+    3300024: leftDoorGlass
+    3300026: separator
+    3300028: wire
+    3300030: yellowBox1
+    3300032: yellowBox2
+    4300000: glassRight
+    4300002: glassLeft
+    4300004: BSC3
+    4300006: frameFront
+    4300008: separator
+    4300010: BoxFilter
+    4300012: yellowBox2
+    4300014: yellowBox1
+    4300016: FilterUp
+    4300018: boxHolder
+    4300020: boxHolder1
+    4300022: footSteper
+    4300024: wire
+    4300026: leftDoorGlass
+    4300028: handle
+    4300030: glassFront.001
+    4300032: glassFront.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
